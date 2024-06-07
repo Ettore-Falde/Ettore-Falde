@@ -1,3 +1,5 @@
+# Hi there, welcome to my GitHub Profile
+
 - 👋 Hi, I’m @Ettore-Falde
 - 👀 I’m interested in apps and data analysis and design
 - 🌱 I’m currently into R, Python, SQL and Swift UI
