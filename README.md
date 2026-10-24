@@ -4,6 +4,7 @@
 - 👀 I’m interested in AI, apps, data analysis, and design
 - 🌱 I’m currently into R, Python, SQL, and Swift UI
 - 💞️ I’m looking to collaborate on challenging and interesting projects
+- 🌐 Website: [ettorefalde.com](https://ettorefalde.com)
 - 📫 How to reach me: ettore.falde@gmail.com
 
 <!---
